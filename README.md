@@ -16,15 +16,22 @@
 
 ```python
 class Karthik:
-    name       = "Karthik M"
-    location   = "Chennai, India 🇮🇳"
-    role       = "Full Stack Developer"
-    languages  = ["Python", "JavaScript"]
-    frameworks = ["Django", "Django REST Framework", "Django Channels", "React"]
-    databases  = ["PostgreSQL", "Redis"]
-    tools      = ["Docker", "Git", "WebSockets"]
-    interests  = ["Real-time Systems", "Backend Architecture", "Web Development"]
-    open_to    = "Exciting full-stack & backend opportunities"
+    name        = "Karthik M"
+    location    = "Chennai, India 🇮🇳"
+    role        = "Full Stack Developer"
+    experience  = "2 years"
+    education   = "B.E / B.Tech"
+    languages   = ["Python", "JavaScript"]
+    frameworks  = ["Django", "Django REST Framework", "Django Channels", "React"]
+    databases   = ["PostgreSQL", "Redis"]
+    tools       = ["Docker", "Git", "WebSockets"]
+    passionate_about = [
+        "Building clean, scalable backend systems",
+        "Real-time web applications",
+        "Writing code that is easy to read and maintain",
+    ]
+    career_goal = "Master the full stack — from database design to pixel-perfect UIs"
+    open_to     = "Exciting full-stack & backend opportunities"
 ```
 
 ---
@@ -51,23 +58,6 @@ class Karthik:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=karthik9360&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik9360&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=karthik9360&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
