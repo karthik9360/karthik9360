@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%26+Django+Expert;React+%26+React+Native+Dev;IoT+Solutions+Architect;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%26+Django+Expert;React+%26+React+Native+Dev;IoT+Solutions+Architect;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -50,52 +50,66 @@
 
 ## 🛠️ Technology Stack
 
-### 💻 Backend
+### 💻 Backend Development
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_Channels-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 📱 Mobile
+### 📱 Mobile Development
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Database & Storage
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### ⚡ Real-Time & Messaging
+### 🔄 Real-Time & Messaging
 <p align="left">
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
 </p>
 
-### 🔧 DevOps & Tools
+### ⚙️ DevOps & Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
+
+### 🧪 Testing & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
 </p>
 
 ---
@@ -137,6 +151,8 @@
 - 📈 Analytics dashboards with consumption-per-production insights
 - 🏢 Organization management with logo/branding uploads
 - ⚠️ Smart alert system for anomalies and threshold breaches
+- 📊 Automated report generation (daily/weekly/monthly)
+- 📉 Historical data visualization with interactive charts
 
 ---
 
@@ -152,6 +168,8 @@
 - 📉 Performance monitoring and operation time analysis
 - 🎯 Target vs actual operation tracking
 - 🔐 Role-based access control
+- 📊 Comprehensive reporting and analytics
+- 🖥️ Deployed on Linux servers with Nginx and Gunicorn
 
 ---
 
@@ -167,6 +185,8 @@
 - 📱 Mobile app for floor supervisors and managers
 - ⏰ Real-time production count updates
 - 📊 Defect rate analysis and quality tracking
+- 👥 Employee performance evaluation
+- 📅 Historical data analysis and trend detection
 
 ---
 
@@ -182,6 +202,8 @@
 - ⏱️ Idle-time analysis and utilization metrics
 - 📊 Operational efficiency dashboards
 - 🚨 Geofencing and zone-based alerts
+- 📈 Historical route playback
+- 🔋 Battery and maintenance tracking
 
 ---
 
@@ -197,31 +219,8 @@
 - 📊 Live analytics dashboard
 - 🏭 Machine performance tracking
 - 📈 Trend analysis and reporting
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik9360&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik9360&theme=dark&hide_border=true&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik9360&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=karthik9360&theme=onedark&column=4&row=2&margin-w=15&margin-h=15" width="49%" />
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🏆 **Top Performer Award** - Febinosolution (2024)
-- 📜 **Certified Python Developer** - Python Institute
-- 🏅 **Django Excellence Badge** - Django Software Foundation
-- 🚀 **Industrial IoT Specialist** - IoT Certification Program
-- 📊 **Database Optimization Expert** - PostgreSQL Certification
-- 🔧 **Linux System Administration** - Linux Foundation
+- 🎯 Integration with production management systems
+- 📱 Mobile alerts and notifications
 
 ---
 
@@ -244,6 +243,7 @@
 - **Time Management:** Delivering quality work within deadlines
 - **Adaptability:** Quick learner of new technologies
 - **Attention to Detail:** Code quality and thorough testing
+- **Customer Focus:** Understanding and meeting client requirements
 
 ---
 
@@ -282,6 +282,29 @@
 - 📕 "Designing Data-Intensive Applications" - Martin Kleppmann
 - 📙 "The Pragmatic Programmer" - Andrew Hunt
 - 📘 "Python Crash Course" - Eric Matthes
+- 📗 "Django for APIs" - William S. Vincent
+
+---
+
+## 📊 Weekly Development Breakdown
+
+```text
+JavaScript    ████████████░░░░░░░   45.2%
+Python        ██████████░░░░░░░░░   38.7%
+HTML/CSS      ████░░░░░░░░░░░░░░░   12.3%
+Other         ██░░░░░░░░░░░░░░░░░    3.8%
+```
+
+---
+
+## 🎵 Fun Facts
+
+- 🎮 I solve coding challenges in my free time
+- 📖 I love reading tech blogs and documentation
+- 🏏 Cricket is my favorite sport
+- 🎥 I enjoy watching tech talks and conferences
+- ☕ Coffee-powered developer
+- 🌍 I love traveling and exploring new places
 
 ---
 
@@ -297,12 +320,12 @@
   <a href="mailto:karthik202m@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/karthik9360/karthik9360/output/snake.svg" alt="Snake animation" />
+  <!-- <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a> -->
 </div>
 
 ---
@@ -314,3 +337,8 @@
 **⭐ Thanks for visiting! Feel free to explore my repositories and reach out for collaboration. ⭐**
 
 </div>
+
+<!-- 
+Optional: Add a visitor counter at the bottom
+![Visitors](https://api.visitorbadge.io/api/visitors?path=karthik9360&label=Visitors&countColor=%23263759)
+-->
